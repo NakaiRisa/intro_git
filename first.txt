@@ -3,3 +3,4 @@ gitの練習をしていきます。
 ・add
 ・commit
 うんち
+・git status
